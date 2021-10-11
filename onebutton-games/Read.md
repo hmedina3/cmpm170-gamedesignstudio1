@@ -1,0 +1,1 @@
+This entire file is based off Kenta Cho's CrispGameLib. The CrispGame Lib is a Javascript game library geared to the making of single input games for web browsers in a quick timely fashion.
